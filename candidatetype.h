@@ -4,7 +4,7 @@
 
 #include "persontype.h"
 
-const int NUM_OF_SCHOOLS = 4;
+const int NUM_OF_CAMPUSUS = 4;
 
 class CandidateType:PersonType
 {
